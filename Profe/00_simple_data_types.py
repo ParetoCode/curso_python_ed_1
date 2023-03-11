@@ -1,0 +1,55 @@
+# ESTE COMENTARIO ES DE UNA LINEA
+
+'''
+ESTE COMENTARIO SON VARIAS
+LINEAS
+'''
+
+# PERSONALEMENTE PREFIERO
+# ESTE FORMATO PARA COMENTARIOS
+# DE VARIAS LINEAS
+
+
+# TIPOS DE DATO SENCILLO
+## NUMERICOS
+### ENTEROS
+10
+## "AZUCAR SINTACTICO" ENTEROS GRANDES 
+10_000_000
+10000000
+
+assert 10_000_000 == 10000000
+
+### FLOTANTE
+10.5
+
+## STRING -> "CADENA DE TEXTO"
+
+'H'
+
+'HOLA'
+
+"HOLA" 
+
+'''HOLA
+MUNDO
+'''
+
+"""HOLA
+MUNDO
+"""
+
+## BOOLEAN -> BOOLEANO
+
+True
+False
+
+## None
+None
+
+
+print(type(None))
+print(type(('a')))
+print(type(1))
+print(type(1.4))
+print(type(True))
