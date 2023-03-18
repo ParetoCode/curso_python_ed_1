@@ -1,11 +1,4 @@
-'''
-2 variables:
-edad:
-examen de conducción:
-Para que alguien conduzca tiene que:
-- Ser mayor de edad
-- Haber pasado el examen de conducción
-'''
+
 ADULT_AGE = 18
 
 age = 19
