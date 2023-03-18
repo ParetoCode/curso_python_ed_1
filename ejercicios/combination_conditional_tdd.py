@@ -15,7 +15,7 @@ def can_drive(ADULT_AGE, age, exam_is_passed):
     return False
 
 # adulto con test pasado, puede conducir
-assert can_drive(ADULT_ AGE, 19, True) == True
+assert can_drive(ADULT_AGE, 19, True) == True
 
 # No adulto con test pasado, no puede conducir
 assert can_drive(ADULT_AGE, 14, True) == False
